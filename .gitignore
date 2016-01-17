@@ -1,0 +1,9 @@
+[Bb]in
+obj
+*.suo
+*.csproj.user
+_ReSharper.*
+*.resharper
+*.resharper.user
+*.ReSharper.user
+*.sln.cache
